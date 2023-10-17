@@ -87,3 +87,8 @@
 .tarefas li .del:hover {
     color: #51141d;
 }
+
+.tarefas li span {
+    display: flex;
+    align-items: center;
+}
